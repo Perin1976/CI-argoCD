@@ -1,1 +1,1 @@
-# CI-telerik-devOps-exam
+# CI-ArgoCD
